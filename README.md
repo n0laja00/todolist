@@ -1,3 +1,22 @@
+In this horrible-looking todo-list project I've used React, uuid, bootsrap, and moment.
+
+After running: 
+```
+  npm start
+```
+on the terminal, you'll be greeted with the following: 
+![image](https://user-images.githubusercontent.com/73889850/185578710-2ee44440-dbcc-41f2-970f-1ac459242c4f.png)
+
+Once you have a todo, write it in the field and include it by pressing "add". 
+
+![image](https://user-images.githubusercontent.com/73889850/185578867-c29a46f8-3847-443f-a96f-49114b80a0fb.png)
+
+Your todo has successfully been added and saved to your local browser memory! To clear the todo, press the checkbox beside the todo and press "clear completed."
+
+![image](https://user-images.githubusercontent.com/73889850/185579119-4edbfe70-fc09-4738-a686-f56c64930398.png)
+
+You no longer have any todos.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
