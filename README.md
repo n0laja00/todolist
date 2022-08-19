@@ -1,6 +1,6 @@
 In this horrible-looking todo-list project I've used React, uuid, bootsrap, and moment.
 
-After running: 
+After pulling and running: 
 ```
   npm start
 ```
